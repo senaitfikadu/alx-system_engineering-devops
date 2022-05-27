@@ -1,2 +1,5 @@
 #!/bin/bash
-chown betty:holberton ./*
+chown vincent staff
+chown vincent staff
+chown vincent staff
+chown vincent staff
