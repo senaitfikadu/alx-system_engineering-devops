@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 #to configure a new server
 
 sudo apt-get update
